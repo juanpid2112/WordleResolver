@@ -1,5 +1,5 @@
 import re
-from WordleResolver.obtenerPalabras import organizar_palabras_por_alfabeto
+from obtenerPalabras import organizar_palabras_por_alfabeto
 import random
 
 # Solicita al usuario la cantidad de letras para las palabras y la cantidad de intentos disponibles.

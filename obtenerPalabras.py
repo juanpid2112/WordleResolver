@@ -28,7 +28,7 @@ def organizar_palabras_por_alfabeto(cantidadLetras):
     palabras_agrupadas = []
 
     # Abrir el archivo de texto en modo lectura
-    with open('listado-general.txt', 'r', encoding='utf-8') as file:
+    with open('C:/Users/Usuario/OneDrive/Paginas Web/WordleResolver/WordleResolver/listado-general.txt', 'r', encoding='utf-8') as file:
         # Iterar sobre cada línea del archivo
         for linea in file:
             # Eliminar espacios en blanco al inicio y al final y convertir a minúsculas
